@@ -1,0 +1,10 @@
+body {
+  background-color: #4f4646;
+  text-align: center;
+}
+
+button {
+  background-image: linear-gradient(hotpink,blue);
+  border-radius: 10%;
+}
+
